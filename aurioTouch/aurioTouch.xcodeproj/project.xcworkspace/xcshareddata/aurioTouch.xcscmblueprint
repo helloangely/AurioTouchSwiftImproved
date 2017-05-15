@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AC9F3268AD4FEF8CFEFA070C8F23F2500C04B7CB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AC9F3268AD4FEF8CFEFA070C8F23F2500C04B7CB" : 0,
+    "1F8EDE5FBBCF92FC12D19D9A597E1391EC753004" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C34E8053-E6AF-4734-99A0-079F8D38039C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AC9F3268AD4FEF8CFEFA070C8F23F2500C04B7CB" : "aurioTouch2.0-Swift\/",
+    "1F8EDE5FBBCF92FC12D19D9A597E1391EC753004" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "aurioTouch",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "aurioTouch.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.iu.edu\/Y390-Spring2017\/y390mitja.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1F8EDE5FBBCF92FC12D19D9A597E1391EC753004"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ooper-shlab\/aurioTouch2.0-Swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AC9F3268AD4FEF8CFEFA070C8F23F2500C04B7CB"
+    }
+  ]
+}
